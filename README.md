@@ -67,5 +67,5 @@ This project is licensed under the MIT License.
 - [Twilio](https://www.twilio.com/)
 
 ## Contact
-For any queries, reach out at [your-email@example.com].
+For any queries, reach out at saksham23467@iiitd.ac.in.
 
